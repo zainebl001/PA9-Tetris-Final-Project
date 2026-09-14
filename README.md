@@ -7,10 +7,15 @@ Braylon Dean Lab Section braylon.dean@wsu.edu
 How to play:
 
 Use the arrow keys to control the falling piece:
+
 Left -> Move piece left
+
 Right -> Move piece right
+
 Down -> Soft drop (move faster)
+
 Up -> Rotate piece
+
 Space -> Hard drop (instantly to the bottom)
 
 Press enter on the menu screen to start
